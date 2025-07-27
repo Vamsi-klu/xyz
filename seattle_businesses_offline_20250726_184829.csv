@@ -1,0 +1,121 @@
+name,category,subcategory,email,phone,address,rating,website
+The Studio Grill,Food,cafe,admin@thestudiogrill.com,(206) 734-9959,"5744 Aurora Ave N, Seattle WA 98121",4.9,https://www.thestudiogrill.com
+The Tavern,Food,restaurant,thetavern@yahoo.com,(206) 829-3584,"8089 4th Ave, Seattle WA 98104",4.9,https://www.thetavern.com
+Seattle Place Bar,Food,restaurant,hello@seattleplacebar.com,(206) 912-9182,"5553 Ballard Ave NW, Seattle WA 98121",4.5,https://www.seattleplacebar.biz
+Artisan Group Kitchen,Food,bar,artisangro@artisangroupkitseattle.com,(206) 599-4621,"7396 Fremont Ave N, Seattle WA 98112",4.2,https://www.artisangroupkitchenseattle.com
+Urban Deli,Food,bakery,contact@urbandeli.com,(206) 348-1373,"1640 Spring St, Seattle WA 98121",4.6,https://www.urbandeli.com
+Ballard Cafe,Food,bar,admin@ballardcafeseattle.com,(206) 709-7424,"9218 Pine St, Seattle WA 98102",3.5,https://www.ballardcafe.com
+Urban Cafe,Food,bakery,urbancafe@outlook.com,(206) 587-8908,"5303 Broadway, Seattle WA 98115",3.7,https://www.urbancafeseattle.com
+Pacific House Bakery,Food,restaurant,info@pacifichousebak.com,(206) 957-1962,"476 Broadway, Seattle WA 98105",4.8,https://www.pacifichousebakery.biz
+Artisan Center Kitchen,Food,bakery,hello@yahoo.com,(206) 331-9747,"6487 5th Ave, Seattle WA 98112",5.0,https://www.artisancenterkitchen.biz
+Emerald City Bistro,Food,bar,info@emeraldcitybistseattle.com,(206) 495-8918,"4143 Capitol Hill, Seattle WA 98122",4.8,https://www.emeraldcitybistro.com
+Pike Place Restaurant,Food,fast_food,hello@outlook.com,(206) 530-6206,"4519 Fremont Ave N, Seattle WA 98106",3.9,https://www.pikeplacerestaurant.biz
+Artisan & Co Eatery,Food,fast_food,admin@yahoo.com,(206) 541-9745,"3446 Westlake Ave N, Seattle WA 98116",3.8,https://www.artisanandcoeateryseattle.com
+Ballard Bistro,Food,restaurant,info@ballardbistro.com,(206) 705-9154,"435 3rd Ave, Seattle WA 98104",4.2,https://www.ballardbistro.net
+Seattle Eatery,Food,bakery,admin@gmail.com,(206) 467-4709,"3340 5th Ave, Seattle WA 98103",3.6,https://www.seattleeatery.com
+Urban Kitchen,Food,fast_food,hello@gmail.com,(206) 421-2960,"568 5th Ave, Seattle WA 98118",3.9,https://www.urbankitchen.net
+Urban Group Barbershop,Salon,beauty_salon,contact@gmail.com,(206) 621-6220,"867 23rd Ave, Seattle WA 98109",4.6,https://www.urbangroupbarbershopseattle.com
+Bella Studio Salon,Salon,hair_care,contact@business.com,(206) 453-7976,"4763 Madison St, Seattle WA 98116",4.6,https://www.bellastudiosalon.biz
+Chic Barbershop,Salon,hair_care,chicbarber@yahoo.com,(206) 561-7616,"412 Fremont Ave N, Seattle WA 98125",3.6,https://www.chicbarbershop.biz
+Elite Styling,Salon,beauty_salon,admin@business.com,(206) 575-5738,"8074 3rd Ave, Seattle WA 98105",4.1,https://www.elitestyling.biz
+The Styling,Salon,hair_care,info@yahoo.com,(206) 970-3707,"349 Spring St, Seattle WA 98108",4.1,https://www.thestylingseattle.com
+Studio Hair Care,Salon,hair_care,contact@business.com,(206) 981-7444,"1466 2nd Ave, Seattle WA 98125",4.8,https://www.studiohaircare.biz
+Modern Beauty Bar,Salon,hair_care,contact@modernbeautybar.com,(206) 921-5802,"8657 Queen Anne Ave N, Seattle WA 98117",4.0,https://www.modernbeautybarseattle.com
+Modern Salon,Salon,hair_care,modernsalo@modernsalon.com,(206) 362-7889,"2954 University St, Seattle WA 98103",3.6,https://www.modernsalon.net
+Classic Styling,Salon,beauty_salon,classicsty@classicstylingseattle.com,(206) 619-9379,"8989 4th Ave, Seattle WA 98108",4.2,https://www.classicstylingseattle.com
+Elite Studio Styling,Salon,barber_shop,elitestudi@elitestudiostylseattle.com,(206) 374-1111,"6720 Westlake Ave N, Seattle WA 98108",4.0,https://www.elitestudiostyling.com
+Chic Salon,Salon,hair_care,info@business.com,(206) 335-6060,"2561 Madison St, Seattle WA 98118",3.7,https://www.chicsalon.com
+Bella Salon,Salon,beauty_salon,info@outlook.com,(206) 738-5747,"8460 Union St, Seattle WA 98116",3.8,https://www.bellasalon.com
+Classic Beauty Bar,Salon,hair_care,classicbea@yahoo.com,(206) 866-2959,"5560 4th Ave, Seattle WA 98103",4.6,https://www.classicbeautybar.biz
+Elite Hair Lounge,Salon,beauty_salon,admin@yahoo.com,(206) 636-4056,"1103 University St, Seattle WA 98106",4.2,https://www.elitehairlounge.net
+Bella Hair Studio,Salon,barber_shop,contact@yahoo.com,(206) 967-9808,"2595 University St, Seattle WA 98122",3.6,https://www.bellahairstudio.net
+Pure Beauty Studio,Beauty,massage_therapist,purebeauty@yahoo.com,(206) 813-9147,"5577 Stone Way N, Seattle WA 98122",4.3,https://www.purebeautystudioseattle.com
+Radiance Nail Salon,Beauty,beauty_salon,admin@radiancenailsal.com,(206) 989-6537,"9469 Pine St, Seattle WA 98106",4.2,https://www.radiancenailsalon.biz
+Divine Center Spa,Beauty,nail_salon,info@divinecenterspaseattle.com,(206) 298-6598,"9038 Pike St, Seattle WA 98101",4.2,https://www.divinecenterspa.com
+Spa House Day Spa,Beauty,spa,info@spahousedayspa.com,(206) 509-1963,"6913 Queen Anne Ave N, Seattle WA 98104",3.8,https://www.spahousedayspa.biz
+Tranquil Wellness Center,Beauty,spa,hello@tranquilwellnesseattle.com,(206) 943-3937,"8707 Pike St, Seattle WA 98112",3.7,https://www.tranquilwellnesscent.net
+Harmony Day Spa,Beauty,massage_therapist,info@harmonydayspa.com,(206) 383-1292,"617 Rainier Ave S, Seattle WA 98102",3.7,https://www.harmonydayspa.net
+Radiance Studio Aesthetics,Beauty,beauty_salon,contact@radiancestudioaseattle.com,(206) 632-3337,"7052 23rd Ave, Seattle WA 98117",4.0,https://www.radiancestudioaestheseattle.com
+Divine Spa,Beauty,beauty_salon,divinespa@divinespa.com,(206) 622-5863,"2373 California Ave SW, Seattle WA 98119",3.6,https://www.divinespaseattle.com
+Radiance Aesthetics,Beauty,nail_salon,contact@yahoo.com,(206) 920-6918,"9191 Stone Way N, Seattle WA 98109",4.5,https://www.radianceaesthetics.net
+Spa Nail Salon,Beauty,nail_salon,contact@gmail.com,(206) 740-3134,"863 Stone Way N, Seattle WA 98121",3.6,https://www.spanailsalon.com
+Luxe Beauty Studio,Beauty,spa,hello@business.com,(206) 741-9533,"7896 Pike St, Seattle WA 98108",3.7,https://www.luxebeautystudio.com
+Harmony Aesthetics,Beauty,massage_therapist,hello@harmonyaestheti.com,(206) 775-3753,"9741 23rd Ave, Seattle WA 98122",4.3,https://www.harmonyaesthetics.com
+Tranquil Nail Salon,Beauty,massage_therapist,info@tranquilnailsal.com,(206) 770-1746,"9352 Dexter Ave N, Seattle WA 98104",3.9,https://www.tranquilnailsalon.net
+Zen Nail Salon,Beauty,massage_therapist,zennailsal@yahoo.com,(206) 253-9710,"527 Union St, Seattle WA 98102",4.9,https://www.zennailsalon.net
+Tranquil Wellness Center,Beauty,nail_salon,admin@tranquilwellnes.com,(206) 296-8411,"8904 Stone Way N, Seattle WA 98105",4.0,https://www.tranquilwellnesscent.com
+Prime & Co Medical Center,Healthcare,doctor,admin@business.com,(206) 274-8789,"6248 Spring St, Seattle WA 98121",3.9,https://www.primeandcomedicalcen.net
+Medical Health Center,Healthcare,doctor,contact@medicalhealthceseattle.com,(206) 851-9823,"6122 Westlake Ave N, Seattle WA 98108",4.4,https://www.medicalhealthcenter.com
+Health Place Medical Center,Healthcare,veterinary_care,info@business.com,(206) 201-3762,"2493 Union St, Seattle WA 98117",3.7,https://www.healthplacemedicalce.biz
+Advanced Health Center,Healthcare,doctor,hello@gmail.com,(206) 714-4368,"6294 Seneca St, Seattle WA 98108",4.4,https://www.advancedhealthcenterseattle.com
+Health Pharmacy,Healthcare,veterinary_care,admin@business.com,(206) 792-6740,"5585 Stone Way N, Seattle WA 98122",4.9,https://www.healthpharmacy.biz
+Family Medical Center,Healthcare,pharmacy,familymedi@familymedicalce.com,(206) 234-1929,"6484 Queen Anne Ave N, Seattle WA 98116",4.1,https://www.familymedicalcenter.net
+Care House Clinic,Healthcare,pharmacy,hello@business.com,(206) 637-1595,"7925 Pine St, Seattle WA 98112",3.7,https://www.carehouseclinic.biz
+Advanced Health Center,Healthcare,veterinary_care,info@advancedhealthc.com,(206) 478-8773,"389 Aurora Ave N, Seattle WA 98109",4.9,https://www.advancedhealthcenter.com
+Wellness Clinic,Healthcare,doctor,admin@business.com,(206) 485-2556,"2879 Queen Anne Ave N, Seattle WA 98118",4.3,https://www.wellnessclinic.net
+Care Pharmacy,Healthcare,dentist,admin@carepharmacy.com,(206) 872-1683,"6609 2nd Ave, Seattle WA 98121",4.1,https://www.carepharmacy.net
+Wellness Medical Center,Healthcare,dentist,hello@gmail.com,(206) 546-6794,"1891 Dexter Ave N, Seattle WA 98117",3.6,https://www.wellnessmedicalcente.com
+Northwest Family Practice,Healthcare,dentist,hello@northwestfamily.com,(206) 422-4364,"947 Pike St, Seattle WA 98118",4.6,https://www.northwestfamilypract.biz
+Care Medical Center,Healthcare,pharmacy,caremedica@caremedicalcentseattle.com,(206) 489-5902,"2608 California Ave SW, Seattle WA 98119",4.1,https://www.caremedicalcenter.biz
+Northwest Family Practice,Healthcare,pharmacy,northwestf@outlook.com,(206) 269-1469,"7780 Pike St, Seattle WA 98108",3.6,https://www.northwestfamilypract.com
+Medical Studio Health Center,Healthcare,pharmacy,contact@outlook.com,(206) 685-8211,"3927 Stone Way N, Seattle WA 98119",3.9,https://www.medicalstudiohealthcseattle.com
+Emerald Center Boutique,Retail,book_store,contact@yahoo.com,(206) 739-3339,"9066 Rainier Ave S, Seattle WA 98117",4.8,https://www.emeraldcenterboutiquseattle.com
+Classic House Emporium,Retail,electronics_store,admin@business.com,(206) 711-2778,"5847 California Ave SW, Seattle WA 98115",3.8,https://www.classichouseemporium.biz
+The Studio Books,Retail,book_store,info@yahoo.com,(206) 823-7844,"8558 Aurora Ave N, Seattle WA 98106",4.2,https://www.thestudiobooks.net
+The Market,Retail,shoe_store,hello@outlook.com,(206) 369-4091,"5641 4th Ave, Seattle WA 98116",3.8,https://www.themarket.com
+Pacific Market,Retail,electronics_store,admin@gmail.com,(206) 712-3848,"7698 15th Ave E, Seattle WA 98106",4.7,https://www.pacificmarketseattle.com
+Classic & Co Shop,Retail,book_store,classicand@yahoo.com,(206) 327-5028,"4381 23rd Ave, Seattle WA 98121",3.6,https://www.classicandcoshop.biz
+Northwest Group Books,Retail,shoe_store,info@outlook.com,(206) 417-4236,"9240 Capitol Hill, Seattle WA 98118",4.4,https://www.northwestgroupbooks.biz
+Pacific Market,Retail,book_store,hello@outlook.com,(206) 867-3227,"1377 Aurora Ave N, Seattle WA 98108",4.4,https://www.pacificmarket.biz
+Boutique Boutique,Retail,book_store,admin@gmail.com,(206) 256-8242,"2245 Broadway, Seattle WA 98106",4.2,https://www.boutiqueboutique.com
+The Electronics,Retail,book_store,contact@business.com,(206) 813-9678,"9224 University St, Seattle WA 98119",3.8,https://www.theelectronics.com
+Seattle Electronics,Retail,clothing_store,contact@yahoo.com,(206) 476-7972,"553 Broadway, Seattle WA 98106",4.6,https://www.seattleelectronics.net
+Classic Emporium,Retail,book_store,classicemp@business.com,(206) 327-4533,"6313 California Ave SW, Seattle WA 98104",4.8,https://www.classicemporium.com
+Classic Store,Retail,electronics_store,hello@gmail.com,(206) 570-9613,"3876 Fremont Ave N, Seattle WA 98109",4.3,https://www.classicstore.net
+Pacific Shop,Retail,shoe_store,contact@yahoo.com,(206) 341-3783,"549 2nd Ave, Seattle WA 98112",4.3,https://www.pacificshop.biz
+The Books,Retail,shoe_store,admin@gmail.com,(206) 667-7379,"654 Westlake Ave N, Seattle WA 98118",3.6,https://www.thebooks.net
+Northwest Auto Repair,Services,car_repair,northwesta@business.com,(206) 633-8434,"1484 Spring St, Seattle WA 98108",5.0,https://www.northwestautorepair.biz
+Reliable Law Firm,Services,car_repair,contact@yahoo.com,(206) 488-6274,"7564 Union St, Seattle WA 98101",4.9,https://www.reliablelawfirm.net
+Quality Consulting,Services,lawyer,hello@business.com,(206) 752-6640,"6135 1st Ave, Seattle WA 98107",4.8,https://www.qualityconsulting.net
+Professional Accounting,Services,car_repair,profession@business.com,(206) 634-3660,"4116 Broadway, Seattle WA 98117",4.1,https://www.professionalaccounti.com
+Professional Accounting,Services,real_estate_agency,hello@professionalacc.com,(206) 399-2961,"3134 Dexter Ave N, Seattle WA 98104",4.0,https://www.professionalaccounti.net
+Professional Law Firm,Services,car_repair,hello@professionallaw.com,(206) 798-4112,"3241 Dexter Ave N, Seattle WA 98103",3.9,https://www.professionallawfirm.com
+Expert Law Firm,Services,accountant,hello@expertlawfirm.com,(206) 796-1886,"8677 Queen Anne Ave N, Seattle WA 98116",4.4,https://www.expertlawfirm.com
+Expert Agency,Services,lawyer,expertagen@yahoo.com,(206) 649-4635,"8551 Queen Anne Ave N, Seattle WA 98125",5.0,https://www.expertagency.com
+Reliable House Accounting,Services,car_repair,admin@outlook.com,(206) 539-2797,"6086 Union St, Seattle WA 98125",4.5,https://www.reliablehouseaccountseattle.com
+Northwest Center Auto Repair,Services,lawyer,northwestc@business.com,(206) 539-1431,"3305 California Ave SW, Seattle WA 98115",3.8,https://www.northwestcenterautor.com
+Seattle & Co Agency,Services,real_estate_agency,admin@outlook.com,(206) 500-1257,"8877 Fremont Ave N, Seattle WA 98101",4.6,https://www.seattleandcoagency.com
+Quality & Co Auto Repair,Services,lawyer,admin@qualityandcoaut.com,(206) 308-4295,"7354 Aurora Ave N, Seattle WA 98106",4.6,https://www.qualityandcoautorepa.net
+Quality Center Real Estate,Services,real_estate_agency,qualitycen@gmail.com,(206) 555-9085,"5458 Seneca St, Seattle WA 98119",4.5,https://www.qualitycenterrealestseattle.com
+Expert Law Firm,Services,lawyer,admin@expertlawfirmseattle.com,(206) 348-4856,"7800 Queen Anne Ave N, Seattle WA 98112",3.8,https://www.expertlawfirm.net
+Premier Real Estate,Services,real_estate_agency,contact@yahoo.com,(206) 802-4583,"5112 Capitol Hill, Seattle WA 98125",4.6,https://www.premierrealestate.biz
+Urban Fitness,Entertainment,gym,hello@urbanfitnessseattle.com,(206) 823-3341,"3777 3rd Ave, Seattle WA 98106",4.2,https://www.urbanfitnessseattle.com
+Northwest Theater,Entertainment,movie_theater,info@yahoo.com,(206) 780-4736,"6085 Pine St, Seattle WA 98103",4.4,https://www.northwesttheater.com
+Active & Co Gym,Entertainment,bowling_alley,info@business.com,(206) 516-2653,"2277 Capitol Hill, Seattle WA 98116",4.5,https://www.activeandcogym.biz
+Active Gym,Entertainment,gym,contact@activegym.com,(206) 648-9176,"5204 Spring St, Seattle WA 98108",3.9,https://www.activegym.com
+Fitness Sports Club,Entertainment,bowling_alley,hello@business.com,(206) 303-4626,"3840 California Ave SW, Seattle WA 98115",4.5,https://www.fitnesssportsclub.net
+Elite Recreation,Entertainment,movie_theater,contact@yahoo.com,(206) 995-7645,"3343 Pine St, Seattle WA 98125",3.7,https://www.eliterecreationseattle.com
+Prime Theater,Entertainment,bowling_alley,primetheat@primetheaterseattle.com,(206) 400-2692,"4853 Dexter Ave N, Seattle WA 98119",4.5,https://www.primetheater.net
+Fitness Sports Club,Entertainment,bowling_alley,contact@fitnesssportsclseattle.com,(206) 740-9512,"8181 5th Ave, Seattle WA 98121",3.7,https://www.fitnesssportsclub.com
+Northwest & Co Entertainment,Entertainment,gym,admin@gmail.com,(206) 925-5058,"1040 Pike St, Seattle WA 98116",4.2,https://www.northwestandcoentertseattle.com
+Urban Recreation,Entertainment,bowling_alley,admin@outlook.com,(206) 948-2274,"7617 Madison St, Seattle WA 98118",3.7,https://www.urbanrecreation.net
+Fitness Entertainment,Entertainment,bowling_alley,fitnessent@fitnessentertai.com,(206) 525-9029,"7376 Fremont Ave N, Seattle WA 98109",3.7,https://www.fitnessentertainment.com
+Urban Sports Club,Entertainment,bowling_alley,hello@urbansportsclub.com,(206) 273-6884,"4867 Fremont Ave N, Seattle WA 98104",4.5,https://www.urbansportsclubseattle.com
+Active Place Gym,Entertainment,movie_theater,info@outlook.com,(206) 924-7228,"9415 5th Ave, Seattle WA 98119",4.7,https://www.activeplacegymseattle.com
+Northwest Entertainment,Entertainment,movie_theater,hello@business.com,(206) 380-8168,"6201 4th Ave, Seattle WA 98107",4.8,https://www.northwestentertainme.com
+Urban House Entertainment,Entertainment,gym,contact@urbanhouseenterseattle.com,(206) 788-3008,"5408 3rd Ave, Seattle WA 98112",4.7,https://www.urbanhouseentertainm.com
+Learning Academy,Education,school,contact@learningacademyseattle.com,(206) 804-8405,"424 Seneca St, Seattle WA 98109",4.9,https://www.learningacademy.com
+Academic Studio Library,Education,tutoring_center,admin@gmail.com,(206) 815-2537,"7998 Broadway, Seattle WA 98103",4.4,https://www.academicstudiolibrarseattle.com
+Seattle Place Institute,Education,school,seattlepla@seattleplaceinsseattle.com,(206) 401-8428,"9928 15th Ave E, Seattle WA 98107",5.0,https://www.seattleplaceinstitut.biz
+Bright House Academy,Education,tutoring_center,brighthous@yahoo.com,(206) 606-8046,"1020 Broadway, Seattle WA 98106",3.6,https://www.brighthouseacademy.com
+Seattle Institute,Education,tutoring_center,hello@seattleinstitut.com,(206) 855-4321,"8609 Spring St, Seattle WA 98101",4.8,https://www.seattleinstitute.biz
+Academic Place Academy,Education,library,academicpl@gmail.com,(206) 853-5185,"1452 Fremont Ave N, Seattle WA 98104",4.5,https://www.academicplaceacademy.biz
+Excellence Academy,Education,library,excellence@excellenceacade.com,(206) 917-5848,"1561 Spring St, Seattle WA 98103",4.0,https://www.excellenceacademyseattle.com
+Excellence Institute,Education,tutoring_center,hello@excellenceinsti.com,(206) 541-5275,"2130 5th Ave, Seattle WA 98117",4.9,https://www.excellenceinstitute.biz
+Academic & Co Library,Education,tutoring_center,hello@outlook.com,(206) 244-9010,"2574 Madison St, Seattle WA 98105",4.5,https://www.academicandcolibrary.biz
+Bright Learning Center,Education,school,admin@brightlearningcseattle.com,(206) 777-1774,"9467 Stone Way N, Seattle WA 98102",4.1,https://www.brightlearningcenterseattle.com
+Knowledge Education Center,Education,library,hello@business.com,(206) 373-5741,"7521 Capitol Hill, Seattle WA 98104",3.5,https://www.knowledgeeducationce.com
+Future House Academy,Education,library,admin@yahoo.com,(206) 833-4709,"607 University St, Seattle WA 98116",3.8,https://www.futurehouseacademyseattle.com
+Seattle Academy,Education,library,admin@gmail.com,(206) 478-2368,"8011 Aurora Ave N, Seattle WA 98103",4.4,https://www.seattleacademy.net
+Learning Library,Education,tutoring_center,hello@learninglibraryseattle.com,(206) 849-2817,"8058 Spring St, Seattle WA 98107",4.0,https://www.learninglibraryseattle.com
+Academic Institute,Education,library,contact@business.com,(206) 602-6344,"9438 Aurora Ave N, Seattle WA 98108",4.0,https://www.academicinstitute.com

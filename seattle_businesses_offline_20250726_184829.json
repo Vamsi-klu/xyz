@@ -1,0 +1,1210 @@
+{
+  "metadata": {
+    "total_businesses": 120,
+    "generation_date": "2025-07-26T18:48:29.172956",
+    "data_source": "Offline Generated",
+    "location": "Seattle, WA"
+  },
+  "businesses": [
+    {
+      "name": "The Studio Grill",
+      "category": "Food",
+      "subcategory": "cafe",
+      "email": "admin@thestudiogrill.com",
+      "phone": "(206) 734-9959",
+      "address": "5744 Aurora Ave N, Seattle WA 98121",
+      "rating": 4.9,
+      "website": "https://www.thestudiogrill.com"
+    },
+    {
+      "name": "The Tavern",
+      "category": "Food",
+      "subcategory": "restaurant",
+      "email": "thetavern@yahoo.com",
+      "phone": "(206) 829-3584",
+      "address": "8089 4th Ave, Seattle WA 98104",
+      "rating": 4.9,
+      "website": "https://www.thetavern.com"
+    },
+    {
+      "name": "Seattle Place Bar",
+      "category": "Food",
+      "subcategory": "restaurant",
+      "email": "hello@seattleplacebar.com",
+      "phone": "(206) 912-9182",
+      "address": "5553 Ballard Ave NW, Seattle WA 98121",
+      "rating": 4.5,
+      "website": "https://www.seattleplacebar.biz"
+    },
+    {
+      "name": "Artisan Group Kitchen",
+      "category": "Food",
+      "subcategory": "bar",
+      "email": "artisangro@artisangroupkitseattle.com",
+      "phone": "(206) 599-4621",
+      "address": "7396 Fremont Ave N, Seattle WA 98112",
+      "rating": 4.2,
+      "website": "https://www.artisangroupkitchenseattle.com"
+    },
+    {
+      "name": "Urban Deli",
+      "category": "Food",
+      "subcategory": "bakery",
+      "email": "contact@urbandeli.com",
+      "phone": "(206) 348-1373",
+      "address": "1640 Spring St, Seattle WA 98121",
+      "rating": 4.6,
+      "website": "https://www.urbandeli.com"
+    },
+    {
+      "name": "Ballard Cafe",
+      "category": "Food",
+      "subcategory": "bar",
+      "email": "admin@ballardcafeseattle.com",
+      "phone": "(206) 709-7424",
+      "address": "9218 Pine St, Seattle WA 98102",
+      "rating": 3.5,
+      "website": "https://www.ballardcafe.com"
+    },
+    {
+      "name": "Urban Cafe",
+      "category": "Food",
+      "subcategory": "bakery",
+      "email": "urbancafe@outlook.com",
+      "phone": "(206) 587-8908",
+      "address": "5303 Broadway, Seattle WA 98115",
+      "rating": 3.7,
+      "website": "https://www.urbancafeseattle.com"
+    },
+    {
+      "name": "Pacific House Bakery",
+      "category": "Food",
+      "subcategory": "restaurant",
+      "email": "info@pacifichousebak.com",
+      "phone": "(206) 957-1962",
+      "address": "476 Broadway, Seattle WA 98105",
+      "rating": 4.8,
+      "website": "https://www.pacifichousebakery.biz"
+    },
+    {
+      "name": "Artisan Center Kitchen",
+      "category": "Food",
+      "subcategory": "bakery",
+      "email": "hello@yahoo.com",
+      "phone": "(206) 331-9747",
+      "address": "6487 5th Ave, Seattle WA 98112",
+      "rating": 5.0,
+      "website": "https://www.artisancenterkitchen.biz"
+    },
+    {
+      "name": "Emerald City Bistro",
+      "category": "Food",
+      "subcategory": "bar",
+      "email": "info@emeraldcitybistseattle.com",
+      "phone": "(206) 495-8918",
+      "address": "4143 Capitol Hill, Seattle WA 98122",
+      "rating": 4.8,
+      "website": "https://www.emeraldcitybistro.com"
+    },
+    {
+      "name": "Pike Place Restaurant",
+      "category": "Food",
+      "subcategory": "fast_food",
+      "email": "hello@outlook.com",
+      "phone": "(206) 530-6206",
+      "address": "4519 Fremont Ave N, Seattle WA 98106",
+      "rating": 3.9,
+      "website": "https://www.pikeplacerestaurant.biz"
+    },
+    {
+      "name": "Artisan & Co Eatery",
+      "category": "Food",
+      "subcategory": "fast_food",
+      "email": "admin@yahoo.com",
+      "phone": "(206) 541-9745",
+      "address": "3446 Westlake Ave N, Seattle WA 98116",
+      "rating": 3.8,
+      "website": "https://www.artisanandcoeateryseattle.com"
+    },
+    {
+      "name": "Ballard Bistro",
+      "category": "Food",
+      "subcategory": "restaurant",
+      "email": "info@ballardbistro.com",
+      "phone": "(206) 705-9154",
+      "address": "435 3rd Ave, Seattle WA 98104",
+      "rating": 4.2,
+      "website": "https://www.ballardbistro.net"
+    },
+    {
+      "name": "Seattle Eatery",
+      "category": "Food",
+      "subcategory": "bakery",
+      "email": "admin@gmail.com",
+      "phone": "(206) 467-4709",
+      "address": "3340 5th Ave, Seattle WA 98103",
+      "rating": 3.6,
+      "website": "https://www.seattleeatery.com"
+    },
+    {
+      "name": "Urban Kitchen",
+      "category": "Food",
+      "subcategory": "fast_food",
+      "email": "hello@gmail.com",
+      "phone": "(206) 421-2960",
+      "address": "568 5th Ave, Seattle WA 98118",
+      "rating": 3.9,
+      "website": "https://www.urbankitchen.net"
+    },
+    {
+      "name": "Urban Group Barbershop",
+      "category": "Salon",
+      "subcategory": "beauty_salon",
+      "email": "contact@gmail.com",
+      "phone": "(206) 621-6220",
+      "address": "867 23rd Ave, Seattle WA 98109",
+      "rating": 4.6,
+      "website": "https://www.urbangroupbarbershopseattle.com"
+    },
+    {
+      "name": "Bella Studio Salon",
+      "category": "Salon",
+      "subcategory": "hair_care",
+      "email": "contact@business.com",
+      "phone": "(206) 453-7976",
+      "address": "4763 Madison St, Seattle WA 98116",
+      "rating": 4.6,
+      "website": "https://www.bellastudiosalon.biz"
+    },
+    {
+      "name": "Chic Barbershop",
+      "category": "Salon",
+      "subcategory": "hair_care",
+      "email": "chicbarber@yahoo.com",
+      "phone": "(206) 561-7616",
+      "address": "412 Fremont Ave N, Seattle WA 98125",
+      "rating": 3.6,
+      "website": "https://www.chicbarbershop.biz"
+    },
+    {
+      "name": "Elite Styling",
+      "category": "Salon",
+      "subcategory": "beauty_salon",
+      "email": "admin@business.com",
+      "phone": "(206) 575-5738",
+      "address": "8074 3rd Ave, Seattle WA 98105",
+      "rating": 4.1,
+      "website": "https://www.elitestyling.biz"
+    },
+    {
+      "name": "The Styling",
+      "category": "Salon",
+      "subcategory": "hair_care",
+      "email": "info@yahoo.com",
+      "phone": "(206) 970-3707",
+      "address": "349 Spring St, Seattle WA 98108",
+      "rating": 4.1,
+      "website": "https://www.thestylingseattle.com"
+    },
+    {
+      "name": "Studio Hair Care",
+      "category": "Salon",
+      "subcategory": "hair_care",
+      "email": "contact@business.com",
+      "phone": "(206) 981-7444",
+      "address": "1466 2nd Ave, Seattle WA 98125",
+      "rating": 4.8,
+      "website": "https://www.studiohaircare.biz"
+    },
+    {
+      "name": "Modern Beauty Bar",
+      "category": "Salon",
+      "subcategory": "hair_care",
+      "email": "contact@modernbeautybar.com",
+      "phone": "(206) 921-5802",
+      "address": "8657 Queen Anne Ave N, Seattle WA 98117",
+      "rating": 4.0,
+      "website": "https://www.modernbeautybarseattle.com"
+    },
+    {
+      "name": "Modern Salon",
+      "category": "Salon",
+      "subcategory": "hair_care",
+      "email": "modernsalo@modernsalon.com",
+      "phone": "(206) 362-7889",
+      "address": "2954 University St, Seattle WA 98103",
+      "rating": 3.6,
+      "website": "https://www.modernsalon.net"
+    },
+    {
+      "name": "Classic Styling",
+      "category": "Salon",
+      "subcategory": "beauty_salon",
+      "email": "classicsty@classicstylingseattle.com",
+      "phone": "(206) 619-9379",
+      "address": "8989 4th Ave, Seattle WA 98108",
+      "rating": 4.2,
+      "website": "https://www.classicstylingseattle.com"
+    },
+    {
+      "name": "Elite Studio Styling",
+      "category": "Salon",
+      "subcategory": "barber_shop",
+      "email": "elitestudi@elitestudiostylseattle.com",
+      "phone": "(206) 374-1111",
+      "address": "6720 Westlake Ave N, Seattle WA 98108",
+      "rating": 4.0,
+      "website": "https://www.elitestudiostyling.com"
+    },
+    {
+      "name": "Chic Salon",
+      "category": "Salon",
+      "subcategory": "hair_care",
+      "email": "info@business.com",
+      "phone": "(206) 335-6060",
+      "address": "2561 Madison St, Seattle WA 98118",
+      "rating": 3.7,
+      "website": "https://www.chicsalon.com"
+    },
+    {
+      "name": "Bella Salon",
+      "category": "Salon",
+      "subcategory": "beauty_salon",
+      "email": "info@outlook.com",
+      "phone": "(206) 738-5747",
+      "address": "8460 Union St, Seattle WA 98116",
+      "rating": 3.8,
+      "website": "https://www.bellasalon.com"
+    },
+    {
+      "name": "Classic Beauty Bar",
+      "category": "Salon",
+      "subcategory": "hair_care",
+      "email": "classicbea@yahoo.com",
+      "phone": "(206) 866-2959",
+      "address": "5560 4th Ave, Seattle WA 98103",
+      "rating": 4.6,
+      "website": "https://www.classicbeautybar.biz"
+    },
+    {
+      "name": "Elite Hair Lounge",
+      "category": "Salon",
+      "subcategory": "beauty_salon",
+      "email": "admin@yahoo.com",
+      "phone": "(206) 636-4056",
+      "address": "1103 University St, Seattle WA 98106",
+      "rating": 4.2,
+      "website": "https://www.elitehairlounge.net"
+    },
+    {
+      "name": "Bella Hair Studio",
+      "category": "Salon",
+      "subcategory": "barber_shop",
+      "email": "contact@yahoo.com",
+      "phone": "(206) 967-9808",
+      "address": "2595 University St, Seattle WA 98122",
+      "rating": 3.6,
+      "website": "https://www.bellahairstudio.net"
+    },
+    {
+      "name": "Pure Beauty Studio",
+      "category": "Beauty",
+      "subcategory": "massage_therapist",
+      "email": "purebeauty@yahoo.com",
+      "phone": "(206) 813-9147",
+      "address": "5577 Stone Way N, Seattle WA 98122",
+      "rating": 4.3,
+      "website": "https://www.purebeautystudioseattle.com"
+    },
+    {
+      "name": "Radiance Nail Salon",
+      "category": "Beauty",
+      "subcategory": "beauty_salon",
+      "email": "admin@radiancenailsal.com",
+      "phone": "(206) 989-6537",
+      "address": "9469 Pine St, Seattle WA 98106",
+      "rating": 4.2,
+      "website": "https://www.radiancenailsalon.biz"
+    },
+    {
+      "name": "Divine Center Spa",
+      "category": "Beauty",
+      "subcategory": "nail_salon",
+      "email": "info@divinecenterspaseattle.com",
+      "phone": "(206) 298-6598",
+      "address": "9038 Pike St, Seattle WA 98101",
+      "rating": 4.2,
+      "website": "https://www.divinecenterspa.com"
+    },
+    {
+      "name": "Spa House Day Spa",
+      "category": "Beauty",
+      "subcategory": "spa",
+      "email": "info@spahousedayspa.com",
+      "phone": "(206) 509-1963",
+      "address": "6913 Queen Anne Ave N, Seattle WA 98104",
+      "rating": 3.8,
+      "website": "https://www.spahousedayspa.biz"
+    },
+    {
+      "name": "Tranquil Wellness Center",
+      "category": "Beauty",
+      "subcategory": "spa",
+      "email": "hello@tranquilwellnesseattle.com",
+      "phone": "(206) 943-3937",
+      "address": "8707 Pike St, Seattle WA 98112",
+      "rating": 3.7,
+      "website": "https://www.tranquilwellnesscent.net"
+    },
+    {
+      "name": "Harmony Day Spa",
+      "category": "Beauty",
+      "subcategory": "massage_therapist",
+      "email": "info@harmonydayspa.com",
+      "phone": "(206) 383-1292",
+      "address": "617 Rainier Ave S, Seattle WA 98102",
+      "rating": 3.7,
+      "website": "https://www.harmonydayspa.net"
+    },
+    {
+      "name": "Radiance Studio Aesthetics",
+      "category": "Beauty",
+      "subcategory": "beauty_salon",
+      "email": "contact@radiancestudioaseattle.com",
+      "phone": "(206) 632-3337",
+      "address": "7052 23rd Ave, Seattle WA 98117",
+      "rating": 4.0,
+      "website": "https://www.radiancestudioaestheseattle.com"
+    },
+    {
+      "name": "Divine Spa",
+      "category": "Beauty",
+      "subcategory": "beauty_salon",
+      "email": "divinespa@divinespa.com",
+      "phone": "(206) 622-5863",
+      "address": "2373 California Ave SW, Seattle WA 98119",
+      "rating": 3.6,
+      "website": "https://www.divinespaseattle.com"
+    },
+    {
+      "name": "Radiance Aesthetics",
+      "category": "Beauty",
+      "subcategory": "nail_salon",
+      "email": "contact@yahoo.com",
+      "phone": "(206) 920-6918",
+      "address": "9191 Stone Way N, Seattle WA 98109",
+      "rating": 4.5,
+      "website": "https://www.radianceaesthetics.net"
+    },
+    {
+      "name": "Spa Nail Salon",
+      "category": "Beauty",
+      "subcategory": "nail_salon",
+      "email": "contact@gmail.com",
+      "phone": "(206) 740-3134",
+      "address": "863 Stone Way N, Seattle WA 98121",
+      "rating": 3.6,
+      "website": "https://www.spanailsalon.com"
+    },
+    {
+      "name": "Luxe Beauty Studio",
+      "category": "Beauty",
+      "subcategory": "spa",
+      "email": "hello@business.com",
+      "phone": "(206) 741-9533",
+      "address": "7896 Pike St, Seattle WA 98108",
+      "rating": 3.7,
+      "website": "https://www.luxebeautystudio.com"
+    },
+    {
+      "name": "Harmony Aesthetics",
+      "category": "Beauty",
+      "subcategory": "massage_therapist",
+      "email": "hello@harmonyaestheti.com",
+      "phone": "(206) 775-3753",
+      "address": "9741 23rd Ave, Seattle WA 98122",
+      "rating": 4.3,
+      "website": "https://www.harmonyaesthetics.com"
+    },
+    {
+      "name": "Tranquil Nail Salon",
+      "category": "Beauty",
+      "subcategory": "massage_therapist",
+      "email": "info@tranquilnailsal.com",
+      "phone": "(206) 770-1746",
+      "address": "9352 Dexter Ave N, Seattle WA 98104",
+      "rating": 3.9,
+      "website": "https://www.tranquilnailsalon.net"
+    },
+    {
+      "name": "Zen Nail Salon",
+      "category": "Beauty",
+      "subcategory": "massage_therapist",
+      "email": "zennailsal@yahoo.com",
+      "phone": "(206) 253-9710",
+      "address": "527 Union St, Seattle WA 98102",
+      "rating": 4.9,
+      "website": "https://www.zennailsalon.net"
+    },
+    {
+      "name": "Tranquil Wellness Center",
+      "category": "Beauty",
+      "subcategory": "nail_salon",
+      "email": "admin@tranquilwellnes.com",
+      "phone": "(206) 296-8411",
+      "address": "8904 Stone Way N, Seattle WA 98105",
+      "rating": 4.0,
+      "website": "https://www.tranquilwellnesscent.com"
+    },
+    {
+      "name": "Prime & Co Medical Center",
+      "category": "Healthcare",
+      "subcategory": "doctor",
+      "email": "admin@business.com",
+      "phone": "(206) 274-8789",
+      "address": "6248 Spring St, Seattle WA 98121",
+      "rating": 3.9,
+      "website": "https://www.primeandcomedicalcen.net"
+    },
+    {
+      "name": "Medical Health Center",
+      "category": "Healthcare",
+      "subcategory": "doctor",
+      "email": "contact@medicalhealthceseattle.com",
+      "phone": "(206) 851-9823",
+      "address": "6122 Westlake Ave N, Seattle WA 98108",
+      "rating": 4.4,
+      "website": "https://www.medicalhealthcenter.com"
+    },
+    {
+      "name": "Health Place Medical Center",
+      "category": "Healthcare",
+      "subcategory": "veterinary_care",
+      "email": "info@business.com",
+      "phone": "(206) 201-3762",
+      "address": "2493 Union St, Seattle WA 98117",
+      "rating": 3.7,
+      "website": "https://www.healthplacemedicalce.biz"
+    },
+    {
+      "name": "Advanced Health Center",
+      "category": "Healthcare",
+      "subcategory": "doctor",
+      "email": "hello@gmail.com",
+      "phone": "(206) 714-4368",
+      "address": "6294 Seneca St, Seattle WA 98108",
+      "rating": 4.4,
+      "website": "https://www.advancedhealthcenterseattle.com"
+    },
+    {
+      "name": "Health Pharmacy",
+      "category": "Healthcare",
+      "subcategory": "veterinary_care",
+      "email": "admin@business.com",
+      "phone": "(206) 792-6740",
+      "address": "5585 Stone Way N, Seattle WA 98122",
+      "rating": 4.9,
+      "website": "https://www.healthpharmacy.biz"
+    },
+    {
+      "name": "Family Medical Center",
+      "category": "Healthcare",
+      "subcategory": "pharmacy",
+      "email": "familymedi@familymedicalce.com",
+      "phone": "(206) 234-1929",
+      "address": "6484 Queen Anne Ave N, Seattle WA 98116",
+      "rating": 4.1,
+      "website": "https://www.familymedicalcenter.net"
+    },
+    {
+      "name": "Care House Clinic",
+      "category": "Healthcare",
+      "subcategory": "pharmacy",
+      "email": "hello@business.com",
+      "phone": "(206) 637-1595",
+      "address": "7925 Pine St, Seattle WA 98112",
+      "rating": 3.7,
+      "website": "https://www.carehouseclinic.biz"
+    },
+    {
+      "name": "Advanced Health Center",
+      "category": "Healthcare",
+      "subcategory": "veterinary_care",
+      "email": "info@advancedhealthc.com",
+      "phone": "(206) 478-8773",
+      "address": "389 Aurora Ave N, Seattle WA 98109",
+      "rating": 4.9,
+      "website": "https://www.advancedhealthcenter.com"
+    },
+    {
+      "name": "Wellness Clinic",
+      "category": "Healthcare",
+      "subcategory": "doctor",
+      "email": "admin@business.com",
+      "phone": "(206) 485-2556",
+      "address": "2879 Queen Anne Ave N, Seattle WA 98118",
+      "rating": 4.3,
+      "website": "https://www.wellnessclinic.net"
+    },
+    {
+      "name": "Care Pharmacy",
+      "category": "Healthcare",
+      "subcategory": "dentist",
+      "email": "admin@carepharmacy.com",
+      "phone": "(206) 872-1683",
+      "address": "6609 2nd Ave, Seattle WA 98121",
+      "rating": 4.1,
+      "website": "https://www.carepharmacy.net"
+    },
+    {
+      "name": "Wellness Medical Center",
+      "category": "Healthcare",
+      "subcategory": "dentist",
+      "email": "hello@gmail.com",
+      "phone": "(206) 546-6794",
+      "address": "1891 Dexter Ave N, Seattle WA 98117",
+      "rating": 3.6,
+      "website": "https://www.wellnessmedicalcente.com"
+    },
+    {
+      "name": "Northwest Family Practice",
+      "category": "Healthcare",
+      "subcategory": "dentist",
+      "email": "hello@northwestfamily.com",
+      "phone": "(206) 422-4364",
+      "address": "947 Pike St, Seattle WA 98118",
+      "rating": 4.6,
+      "website": "https://www.northwestfamilypract.biz"
+    },
+    {
+      "name": "Care Medical Center",
+      "category": "Healthcare",
+      "subcategory": "pharmacy",
+      "email": "caremedica@caremedicalcentseattle.com",
+      "phone": "(206) 489-5902",
+      "address": "2608 California Ave SW, Seattle WA 98119",
+      "rating": 4.1,
+      "website": "https://www.caremedicalcenter.biz"
+    },
+    {
+      "name": "Northwest Family Practice",
+      "category": "Healthcare",
+      "subcategory": "pharmacy",
+      "email": "northwestf@outlook.com",
+      "phone": "(206) 269-1469",
+      "address": "7780 Pike St, Seattle WA 98108",
+      "rating": 3.6,
+      "website": "https://www.northwestfamilypract.com"
+    },
+    {
+      "name": "Medical Studio Health Center",
+      "category": "Healthcare",
+      "subcategory": "pharmacy",
+      "email": "contact@outlook.com",
+      "phone": "(206) 685-8211",
+      "address": "3927 Stone Way N, Seattle WA 98119",
+      "rating": 3.9,
+      "website": "https://www.medicalstudiohealthcseattle.com"
+    },
+    {
+      "name": "Emerald Center Boutique",
+      "category": "Retail",
+      "subcategory": "book_store",
+      "email": "contact@yahoo.com",
+      "phone": "(206) 739-3339",
+      "address": "9066 Rainier Ave S, Seattle WA 98117",
+      "rating": 4.8,
+      "website": "https://www.emeraldcenterboutiquseattle.com"
+    },
+    {
+      "name": "Classic House Emporium",
+      "category": "Retail",
+      "subcategory": "electronics_store",
+      "email": "admin@business.com",
+      "phone": "(206) 711-2778",
+      "address": "5847 California Ave SW, Seattle WA 98115",
+      "rating": 3.8,
+      "website": "https://www.classichouseemporium.biz"
+    },
+    {
+      "name": "The Studio Books",
+      "category": "Retail",
+      "subcategory": "book_store",
+      "email": "info@yahoo.com",
+      "phone": "(206) 823-7844",
+      "address": "8558 Aurora Ave N, Seattle WA 98106",
+      "rating": 4.2,
+      "website": "https://www.thestudiobooks.net"
+    },
+    {
+      "name": "The Market",
+      "category": "Retail",
+      "subcategory": "shoe_store",
+      "email": "hello@outlook.com",
+      "phone": "(206) 369-4091",
+      "address": "5641 4th Ave, Seattle WA 98116",
+      "rating": 3.8,
+      "website": "https://www.themarket.com"
+    },
+    {
+      "name": "Pacific Market",
+      "category": "Retail",
+      "subcategory": "electronics_store",
+      "email": "admin@gmail.com",
+      "phone": "(206) 712-3848",
+      "address": "7698 15th Ave E, Seattle WA 98106",
+      "rating": 4.7,
+      "website": "https://www.pacificmarketseattle.com"
+    },
+    {
+      "name": "Classic & Co Shop",
+      "category": "Retail",
+      "subcategory": "book_store",
+      "email": "classicand@yahoo.com",
+      "phone": "(206) 327-5028",
+      "address": "4381 23rd Ave, Seattle WA 98121",
+      "rating": 3.6,
+      "website": "https://www.classicandcoshop.biz"
+    },
+    {
+      "name": "Northwest Group Books",
+      "category": "Retail",
+      "subcategory": "shoe_store",
+      "email": "info@outlook.com",
+      "phone": "(206) 417-4236",
+      "address": "9240 Capitol Hill, Seattle WA 98118",
+      "rating": 4.4,
+      "website": "https://www.northwestgroupbooks.biz"
+    },
+    {
+      "name": "Pacific Market",
+      "category": "Retail",
+      "subcategory": "book_store",
+      "email": "hello@outlook.com",
+      "phone": "(206) 867-3227",
+      "address": "1377 Aurora Ave N, Seattle WA 98108",
+      "rating": 4.4,
+      "website": "https://www.pacificmarket.biz"
+    },
+    {
+      "name": "Boutique Boutique",
+      "category": "Retail",
+      "subcategory": "book_store",
+      "email": "admin@gmail.com",
+      "phone": "(206) 256-8242",
+      "address": "2245 Broadway, Seattle WA 98106",
+      "rating": 4.2,
+      "website": "https://www.boutiqueboutique.com"
+    },
+    {
+      "name": "The Electronics",
+      "category": "Retail",
+      "subcategory": "book_store",
+      "email": "contact@business.com",
+      "phone": "(206) 813-9678",
+      "address": "9224 University St, Seattle WA 98119",
+      "rating": 3.8,
+      "website": "https://www.theelectronics.com"
+    },
+    {
+      "name": "Seattle Electronics",
+      "category": "Retail",
+      "subcategory": "clothing_store",
+      "email": "contact@yahoo.com",
+      "phone": "(206) 476-7972",
+      "address": "553 Broadway, Seattle WA 98106",
+      "rating": 4.6,
+      "website": "https://www.seattleelectronics.net"
+    },
+    {
+      "name": "Classic Emporium",
+      "category": "Retail",
+      "subcategory": "book_store",
+      "email": "classicemp@business.com",
+      "phone": "(206) 327-4533",
+      "address": "6313 California Ave SW, Seattle WA 98104",
+      "rating": 4.8,
+      "website": "https://www.classicemporium.com"
+    },
+    {
+      "name": "Classic Store",
+      "category": "Retail",
+      "subcategory": "electronics_store",
+      "email": "hello@gmail.com",
+      "phone": "(206) 570-9613",
+      "address": "3876 Fremont Ave N, Seattle WA 98109",
+      "rating": 4.3,
+      "website": "https://www.classicstore.net"
+    },
+    {
+      "name": "Pacific Shop",
+      "category": "Retail",
+      "subcategory": "shoe_store",
+      "email": "contact@yahoo.com",
+      "phone": "(206) 341-3783",
+      "address": "549 2nd Ave, Seattle WA 98112",
+      "rating": 4.3,
+      "website": "https://www.pacificshop.biz"
+    },
+    {
+      "name": "The Books",
+      "category": "Retail",
+      "subcategory": "shoe_store",
+      "email": "admin@gmail.com",
+      "phone": "(206) 667-7379",
+      "address": "654 Westlake Ave N, Seattle WA 98118",
+      "rating": 3.6,
+      "website": "https://www.thebooks.net"
+    },
+    {
+      "name": "Northwest Auto Repair",
+      "category": "Services",
+      "subcategory": "car_repair",
+      "email": "northwesta@business.com",
+      "phone": "(206) 633-8434",
+      "address": "1484 Spring St, Seattle WA 98108",
+      "rating": 5.0,
+      "website": "https://www.northwestautorepair.biz"
+    },
+    {
+      "name": "Reliable Law Firm",
+      "category": "Services",
+      "subcategory": "car_repair",
+      "email": "contact@yahoo.com",
+      "phone": "(206) 488-6274",
+      "address": "7564 Union St, Seattle WA 98101",
+      "rating": 4.9,
+      "website": "https://www.reliablelawfirm.net"
+    },
+    {
+      "name": "Quality Consulting",
+      "category": "Services",
+      "subcategory": "lawyer",
+      "email": "hello@business.com",
+      "phone": "(206) 752-6640",
+      "address": "6135 1st Ave, Seattle WA 98107",
+      "rating": 4.8,
+      "website": "https://www.qualityconsulting.net"
+    },
+    {
+      "name": "Professional Accounting",
+      "category": "Services",
+      "subcategory": "car_repair",
+      "email": "profession@business.com",
+      "phone": "(206) 634-3660",
+      "address": "4116 Broadway, Seattle WA 98117",
+      "rating": 4.1,
+      "website": "https://www.professionalaccounti.com"
+    },
+    {
+      "name": "Professional Accounting",
+      "category": "Services",
+      "subcategory": "real_estate_agency",
+      "email": "hello@professionalacc.com",
+      "phone": "(206) 399-2961",
+      "address": "3134 Dexter Ave N, Seattle WA 98104",
+      "rating": 4.0,
+      "website": "https://www.professionalaccounti.net"
+    },
+    {
+      "name": "Professional Law Firm",
+      "category": "Services",
+      "subcategory": "car_repair",
+      "email": "hello@professionallaw.com",
+      "phone": "(206) 798-4112",
+      "address": "3241 Dexter Ave N, Seattle WA 98103",
+      "rating": 3.9,
+      "website": "https://www.professionallawfirm.com"
+    },
+    {
+      "name": "Expert Law Firm",
+      "category": "Services",
+      "subcategory": "accountant",
+      "email": "hello@expertlawfirm.com",
+      "phone": "(206) 796-1886",
+      "address": "8677 Queen Anne Ave N, Seattle WA 98116",
+      "rating": 4.4,
+      "website": "https://www.expertlawfirm.com"
+    },
+    {
+      "name": "Expert Agency",
+      "category": "Services",
+      "subcategory": "lawyer",
+      "email": "expertagen@yahoo.com",
+      "phone": "(206) 649-4635",
+      "address": "8551 Queen Anne Ave N, Seattle WA 98125",
+      "rating": 5.0,
+      "website": "https://www.expertagency.com"
+    },
+    {
+      "name": "Reliable House Accounting",
+      "category": "Services",
+      "subcategory": "car_repair",
+      "email": "admin@outlook.com",
+      "phone": "(206) 539-2797",
+      "address": "6086 Union St, Seattle WA 98125",
+      "rating": 4.5,
+      "website": "https://www.reliablehouseaccountseattle.com"
+    },
+    {
+      "name": "Northwest Center Auto Repair",
+      "category": "Services",
+      "subcategory": "lawyer",
+      "email": "northwestc@business.com",
+      "phone": "(206) 539-1431",
+      "address": "3305 California Ave SW, Seattle WA 98115",
+      "rating": 3.8,
+      "website": "https://www.northwestcenterautor.com"
+    },
+    {
+      "name": "Seattle & Co Agency",
+      "category": "Services",
+      "subcategory": "real_estate_agency",
+      "email": "admin@outlook.com",
+      "phone": "(206) 500-1257",
+      "address": "8877 Fremont Ave N, Seattle WA 98101",
+      "rating": 4.6,
+      "website": "https://www.seattleandcoagency.com"
+    },
+    {
+      "name": "Quality & Co Auto Repair",
+      "category": "Services",
+      "subcategory": "lawyer",
+      "email": "admin@qualityandcoaut.com",
+      "phone": "(206) 308-4295",
+      "address": "7354 Aurora Ave N, Seattle WA 98106",
+      "rating": 4.6,
+      "website": "https://www.qualityandcoautorepa.net"
+    },
+    {
+      "name": "Quality Center Real Estate",
+      "category": "Services",
+      "subcategory": "real_estate_agency",
+      "email": "qualitycen@gmail.com",
+      "phone": "(206) 555-9085",
+      "address": "5458 Seneca St, Seattle WA 98119",
+      "rating": 4.5,
+      "website": "https://www.qualitycenterrealestseattle.com"
+    },
+    {
+      "name": "Expert Law Firm",
+      "category": "Services",
+      "subcategory": "lawyer",
+      "email": "admin@expertlawfirmseattle.com",
+      "phone": "(206) 348-4856",
+      "address": "7800 Queen Anne Ave N, Seattle WA 98112",
+      "rating": 3.8,
+      "website": "https://www.expertlawfirm.net"
+    },
+    {
+      "name": "Premier Real Estate",
+      "category": "Services",
+      "subcategory": "real_estate_agency",
+      "email": "contact@yahoo.com",
+      "phone": "(206) 802-4583",
+      "address": "5112 Capitol Hill, Seattle WA 98125",
+      "rating": 4.6,
+      "website": "https://www.premierrealestate.biz"
+    },
+    {
+      "name": "Urban Fitness",
+      "category": "Entertainment",
+      "subcategory": "gym",
+      "email": "hello@urbanfitnessseattle.com",
+      "phone": "(206) 823-3341",
+      "address": "3777 3rd Ave, Seattle WA 98106",
+      "rating": 4.2,
+      "website": "https://www.urbanfitnessseattle.com"
+    },
+    {
+      "name": "Northwest Theater",
+      "category": "Entertainment",
+      "subcategory": "movie_theater",
+      "email": "info@yahoo.com",
+      "phone": "(206) 780-4736",
+      "address": "6085 Pine St, Seattle WA 98103",
+      "rating": 4.4,
+      "website": "https://www.northwesttheater.com"
+    },
+    {
+      "name": "Active & Co Gym",
+      "category": "Entertainment",
+      "subcategory": "bowling_alley",
+      "email": "info@business.com",
+      "phone": "(206) 516-2653",
+      "address": "2277 Capitol Hill, Seattle WA 98116",
+      "rating": 4.5,
+      "website": "https://www.activeandcogym.biz"
+    },
+    {
+      "name": "Active Gym",
+      "category": "Entertainment",
+      "subcategory": "gym",
+      "email": "contact@activegym.com",
+      "phone": "(206) 648-9176",
+      "address": "5204 Spring St, Seattle WA 98108",
+      "rating": 3.9,
+      "website": "https://www.activegym.com"
+    },
+    {
+      "name": "Fitness Sports Club",
+      "category": "Entertainment",
+      "subcategory": "bowling_alley",
+      "email": "hello@business.com",
+      "phone": "(206) 303-4626",
+      "address": "3840 California Ave SW, Seattle WA 98115",
+      "rating": 4.5,
+      "website": "https://www.fitnesssportsclub.net"
+    },
+    {
+      "name": "Elite Recreation",
+      "category": "Entertainment",
+      "subcategory": "movie_theater",
+      "email": "contact@yahoo.com",
+      "phone": "(206) 995-7645",
+      "address": "3343 Pine St, Seattle WA 98125",
+      "rating": 3.7,
+      "website": "https://www.eliterecreationseattle.com"
+    },
+    {
+      "name": "Prime Theater",
+      "category": "Entertainment",
+      "subcategory": "bowling_alley",
+      "email": "primetheat@primetheaterseattle.com",
+      "phone": "(206) 400-2692",
+      "address": "4853 Dexter Ave N, Seattle WA 98119",
+      "rating": 4.5,
+      "website": "https://www.primetheater.net"
+    },
+    {
+      "name": "Fitness Sports Club",
+      "category": "Entertainment",
+      "subcategory": "bowling_alley",
+      "email": "contact@fitnesssportsclseattle.com",
+      "phone": "(206) 740-9512",
+      "address": "8181 5th Ave, Seattle WA 98121",
+      "rating": 3.7,
+      "website": "https://www.fitnesssportsclub.com"
+    },
+    {
+      "name": "Northwest & Co Entertainment",
+      "category": "Entertainment",
+      "subcategory": "gym",
+      "email": "admin@gmail.com",
+      "phone": "(206) 925-5058",
+      "address": "1040 Pike St, Seattle WA 98116",
+      "rating": 4.2,
+      "website": "https://www.northwestandcoentertseattle.com"
+    },
+    {
+      "name": "Urban Recreation",
+      "category": "Entertainment",
+      "subcategory": "bowling_alley",
+      "email": "admin@outlook.com",
+      "phone": "(206) 948-2274",
+      "address": "7617 Madison St, Seattle WA 98118",
+      "rating": 3.7,
+      "website": "https://www.urbanrecreation.net"
+    },
+    {
+      "name": "Fitness Entertainment",
+      "category": "Entertainment",
+      "subcategory": "bowling_alley",
+      "email": "fitnessent@fitnessentertai.com",
+      "phone": "(206) 525-9029",
+      "address": "7376 Fremont Ave N, Seattle WA 98109",
+      "rating": 3.7,
+      "website": "https://www.fitnessentertainment.com"
+    },
+    {
+      "name": "Urban Sports Club",
+      "category": "Entertainment",
+      "subcategory": "bowling_alley",
+      "email": "hello@urbansportsclub.com",
+      "phone": "(206) 273-6884",
+      "address": "4867 Fremont Ave N, Seattle WA 98104",
+      "rating": 4.5,
+      "website": "https://www.urbansportsclubseattle.com"
+    },
+    {
+      "name": "Active Place Gym",
+      "category": "Entertainment",
+      "subcategory": "movie_theater",
+      "email": "info@outlook.com",
+      "phone": "(206) 924-7228",
+      "address": "9415 5th Ave, Seattle WA 98119",
+      "rating": 4.7,
+      "website": "https://www.activeplacegymseattle.com"
+    },
+    {
+      "name": "Northwest Entertainment",
+      "category": "Entertainment",
+      "subcategory": "movie_theater",
+      "email": "hello@business.com",
+      "phone": "(206) 380-8168",
+      "address": "6201 4th Ave, Seattle WA 98107",
+      "rating": 4.8,
+      "website": "https://www.northwestentertainme.com"
+    },
+    {
+      "name": "Urban House Entertainment",
+      "category": "Entertainment",
+      "subcategory": "gym",
+      "email": "contact@urbanhouseenterseattle.com",
+      "phone": "(206) 788-3008",
+      "address": "5408 3rd Ave, Seattle WA 98112",
+      "rating": 4.7,
+      "website": "https://www.urbanhouseentertainm.com"
+    },
+    {
+      "name": "Learning Academy",
+      "category": "Education",
+      "subcategory": "school",
+      "email": "contact@learningacademyseattle.com",
+      "phone": "(206) 804-8405",
+      "address": "424 Seneca St, Seattle WA 98109",
+      "rating": 4.9,
+      "website": "https://www.learningacademy.com"
+    },
+    {
+      "name": "Academic Studio Library",
+      "category": "Education",
+      "subcategory": "tutoring_center",
+      "email": "admin@gmail.com",
+      "phone": "(206) 815-2537",
+      "address": "7998 Broadway, Seattle WA 98103",
+      "rating": 4.4,
+      "website": "https://www.academicstudiolibrarseattle.com"
+    },
+    {
+      "name": "Seattle Place Institute",
+      "category": "Education",
+      "subcategory": "school",
+      "email": "seattlepla@seattleplaceinsseattle.com",
+      "phone": "(206) 401-8428",
+      "address": "9928 15th Ave E, Seattle WA 98107",
+      "rating": 5.0,
+      "website": "https://www.seattleplaceinstitut.biz"
+    },
+    {
+      "name": "Bright House Academy",
+      "category": "Education",
+      "subcategory": "tutoring_center",
+      "email": "brighthous@yahoo.com",
+      "phone": "(206) 606-8046",
+      "address": "1020 Broadway, Seattle WA 98106",
+      "rating": 3.6,
+      "website": "https://www.brighthouseacademy.com"
+    },
+    {
+      "name": "Seattle Institute",
+      "category": "Education",
+      "subcategory": "tutoring_center",
+      "email": "hello@seattleinstitut.com",
+      "phone": "(206) 855-4321",
+      "address": "8609 Spring St, Seattle WA 98101",
+      "rating": 4.8,
+      "website": "https://www.seattleinstitute.biz"
+    },
+    {
+      "name": "Academic Place Academy",
+      "category": "Education",
+      "subcategory": "library",
+      "email": "academicpl@gmail.com",
+      "phone": "(206) 853-5185",
+      "address": "1452 Fremont Ave N, Seattle WA 98104",
+      "rating": 4.5,
+      "website": "https://www.academicplaceacademy.biz"
+    },
+    {
+      "name": "Excellence Academy",
+      "category": "Education",
+      "subcategory": "library",
+      "email": "excellence@excellenceacade.com",
+      "phone": "(206) 917-5848",
+      "address": "1561 Spring St, Seattle WA 98103",
+      "rating": 4.0,
+      "website": "https://www.excellenceacademyseattle.com"
+    },
+    {
+      "name": "Excellence Institute",
+      "category": "Education",
+      "subcategory": "tutoring_center",
+      "email": "hello@excellenceinsti.com",
+      "phone": "(206) 541-5275",
+      "address": "2130 5th Ave, Seattle WA 98117",
+      "rating": 4.9,
+      "website": "https://www.excellenceinstitute.biz"
+    },
+    {
+      "name": "Academic & Co Library",
+      "category": "Education",
+      "subcategory": "tutoring_center",
+      "email": "hello@outlook.com",
+      "phone": "(206) 244-9010",
+      "address": "2574 Madison St, Seattle WA 98105",
+      "rating": 4.5,
+      "website": "https://www.academicandcolibrary.biz"
+    },
+    {
+      "name": "Bright Learning Center",
+      "category": "Education",
+      "subcategory": "school",
+      "email": "admin@brightlearningcseattle.com",
+      "phone": "(206) 777-1774",
+      "address": "9467 Stone Way N, Seattle WA 98102",
+      "rating": 4.1,
+      "website": "https://www.brightlearningcenterseattle.com"
+    },
+    {
+      "name": "Knowledge Education Center",
+      "category": "Education",
+      "subcategory": "library",
+      "email": "hello@business.com",
+      "phone": "(206) 373-5741",
+      "address": "7521 Capitol Hill, Seattle WA 98104",
+      "rating": 3.5,
+      "website": "https://www.knowledgeeducationce.com"
+    },
+    {
+      "name": "Future House Academy",
+      "category": "Education",
+      "subcategory": "library",
+      "email": "admin@yahoo.com",
+      "phone": "(206) 833-4709",
+      "address": "607 University St, Seattle WA 98116",
+      "rating": 3.8,
+      "website": "https://www.futurehouseacademyseattle.com"
+    },
+    {
+      "name": "Seattle Academy",
+      "category": "Education",
+      "subcategory": "library",
+      "email": "admin@gmail.com",
+      "phone": "(206) 478-2368",
+      "address": "8011 Aurora Ave N, Seattle WA 98103",
+      "rating": 4.4,
+      "website": "https://www.seattleacademy.net"
+    },
+    {
+      "name": "Learning Library",
+      "category": "Education",
+      "subcategory": "tutoring_center",
+      "email": "hello@learninglibraryseattle.com",
+      "phone": "(206) 849-2817",
+      "address": "8058 Spring St, Seattle WA 98107",
+      "rating": 4.0,
+      "website": "https://www.learninglibraryseattle.com"
+    },
+    {
+      "name": "Academic Institute",
+      "category": "Education",
+      "subcategory": "library",
+      "email": "contact@business.com",
+      "phone": "(206) 602-6344",
+      "address": "9438 Aurora Ave N, Seattle WA 98108",
+      "rating": 4.0,
+      "website": "https://www.academicinstitute.com"
+    }
+  ]
+}

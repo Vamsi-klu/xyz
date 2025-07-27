@@ -1,0 +1,21 @@
+name,category,subcategory,email,phone,address,rating,website
+Pike Place Chowder,Food,restaurant,info@pikeplacebowder.com,(206) 267-2537,"1530 Post Alley Seattle WA 98101",4.5,https://www.pikeplacebowder.com
+Starbucks Reserve Roastery,Food,cafe,contact@starbucks.com,(206) 624-0173,"1124 Pike St Seattle WA 98101",4.3,https://www.starbucksreserve.com
+The Pink Door,Food,restaurant,reservations@thepinkdoor.net,(206) 443-3241,"1919 Post Alley Seattle WA 98101",4.4,https://www.thepinkdoor.net
+Canlis,Food,restaurant,info@canlis.com,(206) 283-3313,"2576 Aurora Ave N Seattle WA 98109",4.6,https://www.canlis.com
+Elliott's Oyster House,Food,restaurant,info@elliottsoysterhouse.com,(206) 623-4340,"1201 Alaskan Way Pier 56 Seattle WA 98101",4.2,https://www.elliottsoysterhouse.com
+Gene Juarez Salon & Spa,Salon,beauty_salon,info@genejuarez.com,(206) 326-6000,"607 Pine St Seattle WA 98101",4.1,https://www.genejuarez.com
+Rudy's Barbershop,Salon,barber_shop,info@rudysbarbershop.com,(206) 329-3008,"614 E Pine St Seattle WA 98122",4.3,https://www.rudysbarbershop.com
+Penelope and the Beauty Bar,Beauty,beauty_salon,hello@penelopeandthebeautybar.com,(206) 708-8568,"2364 E Union St Seattle WA 98122",4.7,https://www.penelopeandthebeautybar.com
+The Spa at Four Seasons,Beauty,spa,spa.seattle@fourseasons.com,(206) 749-7000,"99 Union St Seattle WA 98101",4.5,https://www.fourseasons.com/seattle
+Ummelina International Day Spa,Beauty,spa,info@ummelina.com,(206) 624-1370,"1525 4th Ave Seattle WA 98101",4.4,https://www.ummelina.com
+Nail Bar,Beauty,nail_salon,info@nailbarseattle.com,(206) 623-0767,"1420 5th Ave Seattle WA 98101",4.2,https://www.nailbarseattle.com
+Habitude Salon Spa,Beauty,beauty_salon,info@habitudesalon.com,(206) 522-7510,"4616 E Pine St Seattle WA 98122",4.3,https://www.habitudesalon.com
+Salon Maison,Salon,hair_care,info@salonmaison.com,(206) 441-1234,"1425 1st Ave Seattle WA 98101",4.4,https://www.salonmaison.com
+Bishops Barbershop,Salon,barber_shop,info@bishopsbarbershop.com,(206) 633-2647,"307 E Pine St Seattle WA 98122",4.5,https://www.bishopsbarbershop.com
+Penzone Salons + Spas,Beauty,spa,info@penzone.com,(206) 838-6116,"500 Pine St Seattle WA 98101",4.1,https://www.penzone.com
+Nordstrom Spa,Beauty,spa,spa@nordstrom.com,(206) 628-2111,"500 Pine St Seattle WA 98101",4.3,https://www.nordstrom.com
+The Woodhouse Day Spa,Beauty,spa,seattle@woodhousespas.com,(206) 812-3600,"1200 5th Ave Seattle WA 98101",4.6,https://www.woodhousespas.com
+Parlor Hair Studio,Salon,hair_care,info@parlorhair.com,(206) 324-4247,"719 E Pike St Seattle WA 98122",4.7,https://www.parlorhair.com
+Bella Rinova Day Spa,Beauty,spa,info@bellarinova.com,(206) 441-5450,"2022 Boren Ave Seattle WA 98121",4.2,https://www.bellarinova.com
+Evo Hair Salon,Salon,hair_care,info@evohair.com,(206) 633-3686,"1525 11th Ave Seattle WA 98122",4.4,https://www.evohair.com 
